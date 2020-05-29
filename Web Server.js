@@ -6,13 +6,6 @@
 <body>
 <script language="javascript" type="text/javascript">
 
-
-
-
-
-
-
-
 /*
   Web Server Template
   ===================

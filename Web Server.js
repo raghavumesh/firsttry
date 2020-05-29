@@ -1,3 +1,18 @@
+
+<html>
+<head>
+<titlt> </title>
+</head>
+<body>
+<script language="javascript" type="text/javascript">
+
+
+
+
+
+
+
+
 /*
   Web Server Template
   ===================
@@ -96,6 +111,10 @@ function serv_OnReceive( msg, ip )
 {
     txtMsg.SetText( " " + msg );
 }
+
+</script>
+</body>
+</html>
 
 
 	
